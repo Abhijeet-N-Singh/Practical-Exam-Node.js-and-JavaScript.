@@ -11,3 +11,18 @@ http.createServer(function (req,res)) {
     return res.end();
 });
 }).listen(8080);
+
+// demofile1.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset = "UTF-8">
+    <meta http-equiv= "X-UA-Compatible" content= "IE=edge">
+    <meta name="viewport" content= "IE=edge">
+    <title>Node.js File System</title>    </meta>    </meta></meta>
+</head>
+<body>
+    <h1>Reading HTML Files</h1>
+    <p>Node.js file that reads the HTML file and return the content</p>
+</body>    
+</html>
